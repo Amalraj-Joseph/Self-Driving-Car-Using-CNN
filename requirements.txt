@@ -1,0 +1,7 @@
+airsim
+torch
+numpy
+gym
+matplotlib
+pyyaml
+keyboard
